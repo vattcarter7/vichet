@@ -15,7 +15,7 @@ body {
 }
 
 .header-description {
-  margin-right: 150px;
+  margin-right: 80px;
   margin-left: 148px;
 }
 
@@ -27,7 +27,8 @@ body {
 }
 
 .profile {
-  margin-right: 148px;
+  margin-left: 25px;
+  margin-right:65px ;
 }
 
 .profile-picture {
@@ -35,3 +36,29 @@ body {
   width: 400px;
   height: 400px;
 }
+
+.profile-picture:hover {
+  transform: scale(1.03);
+}
+
+.profile-picture { 
+  transition: all .1s ease-in-out;
+}
+
+.nav-bar {
+  margin-left: 1200px;
+}
+
+li {
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 950;
+  display: inline-block;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+
+
+  
+
