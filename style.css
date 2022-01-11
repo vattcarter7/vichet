@@ -49,14 +49,31 @@ body {
   margin-left: 1200px;
 }
 
-li {
+.nav-words , li {
   cursor: pointer;
   font-size: 17px;
   font-weight: 950;
+  
   display: inline-block;
   justify-content: space-between;
   padding: 20px;
 }
+
+.recent-view {
+  
+  display: inline-block;
+  flex-direction: column;
+}
+
+.recent-view  {
+
+  width:1700px;
+  height: 350px;
+  background-color: #EDF7FA;
+  
+ }
+
+
 
 
 
