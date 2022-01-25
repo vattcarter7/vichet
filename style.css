@@ -113,6 +113,105 @@ body {
   color:  #00A8CC;
 }
 
+.step-three {
+  margin-left: 148px;
+  margin-top: 15px;
+  width: 858px;
+}
+
+.f-w1 {
+  display: flex;
+  border-bottom-style: solid;
+  border-color: gray;
+}
+
+.picture1 {
+  border-radius: 5%;   
+  width: 246px;
+  height: 200px;
+}
+
+
+
+.description1 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 18px;  
+}
+
+.middle1 {
+  display: flex;
+}
+
+#D {
+  margin-left: 25px;
+}
+
+.f-w2 {
+  display: flex;
+  padding-top: 46px;
+  
+  border-bottom-style: solid;
+  border-color: gray;
+}
+
+.description2 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 18px;
+}
+
+ 
+.picture2 {
+  border-radius: 5%; 
+  width: 246px;
+  height: 200px;
+}
+
+.middle2 {
+  display: flex;
+}
+
+#I {
+  margin-left: 25px;
+}
+
+.f-w3 {
+  display: flex;
+  padding-top: 46px;
+  border-bottom-style: solid;
+  border-color: gray;
+}
+
+.description3 {
+  display: flex;
+  flex-direction: column;
+  padding-left: 18px;
+}
+
+.picture3 {
+  border-radius: 5%; 
+  width: 246px;
+  height: 200px;
+}
+
+.middle3 {
+  display: flex;
+}
+
+#T {
+  margin-left: 25px;
+}
+
+#year {
+  text-align: center;
+  color: white;
+  background-color: black;
+  width: 45px;
+  border-radius: 25px;
+}
+
+
 
 
 
